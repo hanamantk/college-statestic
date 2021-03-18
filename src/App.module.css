@@ -1,0 +1,38 @@
+.App {
+ width: 992px;
+ margin: 0 auto;
+}
+.panel{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.header{
+  background-color: #174C88;
+  height: 3rem;
+  width: 100%;
+  margin-bottom: 1rem;
+  color: white;
+  padding: 1rem;
+}
+
+
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
