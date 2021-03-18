@@ -1,3 +1,4 @@
+```
 ========================== Simple college stats  application ==============
 
 ----Techonology used------
